@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1862e7da108a54ab16f7186aa1b076, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  levelBackgroundColor: {r: 0.6415094, g: 0.35404056, b: 0.35404056, a: 1}
+  levelPlatformColor: {r: 0.24705884, g: 0.43529415, b: 0.44705886, a: 1}
+  levelBallColor: {r: 0.9215687, g: 0.12941177, b: 0.5921569, a: 1}
+  levelHelixColor: {r: 0.9725491, g: 0.9725491, b: 0.9725491, a: 1}
+  levelGoalColor: {r: 1, g: 1, b: 1, a: 1}
+  deathPartColor: {r: 0.9294118, g: 0.3137255, b: 0.10980393, a: 1}
+  platforms:
+  - partCount: 6
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 4
+    deathPartCount: 1
+  - partCount: 5
+    deathPartCount: 1
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 1
+  - partCount: 6
+    deathPartCount: 2
+  - partCount: 5
+    deathPartCount: 1
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 2
+  - partCount: 5
+    deathPartCount: 2
+  - partCount: 6
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 5
+    deathPartCount: 0
+  - partCount: 6
+    deathPartCount: 1
+  - partCount: 5
+    deathPartCount: 3
